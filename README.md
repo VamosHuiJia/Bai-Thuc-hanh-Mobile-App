@@ -1,5 +1,4 @@
-![aafdb50b-97c2-49a5-ae6c-679d0633a6e5](https://github.com/user-attachments/assets/494454cb-bca4-4944-bad7-13bdd37fc483)# Bai-Thuc-hanh-Mobile-App
-
+# Bai-Thuc-hanh-Mobile-App
 ## Nguyen Gia Huy
 ## MSV: 22810310338
 
