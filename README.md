@@ -15,11 +15,8 @@
 ### 2.Bai thuc hanh 2
 | Ảnh 1 | Ảnh 2 | Ảnh 3 |
 |---|---|---|
-| ![aafdb50b-97c2-49a5-ae6c-679d0633a6e5](https://github.com/user-attachments/assets/08ea5231-d00c-4076-b0db-2a85d1b6b312) | 
-![87540fd2-525a-41ff-85c8-986593e40f67](https://github.com/user-attachments/assets/8351a193-ae79-4d06-8225-35c37374a26e) | 
-![539daa49-ffce-4203-a587-3149e1a122c0](https://github.com/user-attachments/assets/4356f5d4-502b-44c4-b138-9f0c997d6f79) |
+| ![aafdb50b-97c2-49a5-ae6c-679d0633a6e5](https://github.com/user-attachments/assets/08ea5231-d00c-4076-b0db-2a85d1b6b312) | ![87540fd2-525a-41ff-85c8-986593e40f67](https://github.com/user-attachments/assets/8351a193-ae79-4d06-8225-35c37374a26e) | ![539daa49-ffce-4203-a587-3149e1a122c0](https://github.com/user-attachments/assets/4356f5d4-502b-44c4-b138-9f0c997d6f79) |
 
 | Ảnh 4 | Ảnh 5 |
 |---|---|
-| ![7d5345cb-8415-410c-a094-9d34718e2af3](https://github.com/user-attachments/assets/b9546bbf-f10a-42a1-b8ce-50a0d2fbe462) | 
-![161f5ec2-54bd-410c-b1bb-76f4cafe9163](https://github.com/user-attachments/assets/b33cbb59-089e-475b-9f4f-8704804a7c48) |
+| ![7d5345cb-8415-410c-a094-9d34718e2af3](https://github.com/user-attachments/assets/b9546bbf-f10a-42a1-b8ce-50a0d2fbe462) | ![161f5ec2-54bd-410c-b1bb-76f4cafe9163](https://github.com/user-attachments/assets/b33cbb59-089e-475b-9f4f-8704804a7c48) |
