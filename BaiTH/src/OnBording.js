@@ -9,7 +9,7 @@ export default function OnBoarding({ navigation }) {
       <Image 
         source={require("../assets/Images/background_1.png")} 
         style={styles.productImage}
-      />
+      /> 
 
       {/* Nội dung chính */}
       <View style={styles.content}>
