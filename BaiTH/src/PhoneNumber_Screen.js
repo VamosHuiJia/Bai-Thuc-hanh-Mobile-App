@@ -11,7 +11,7 @@ export default function Number( {navigation}) {
       <View style={styles.container}>
         
         {/* Nút Back */}
-        <TouchableOpacity style={styles.backButton} onPress={() => navigation.goBack()}>
+        <TouchableOpacity style={styles.backButton} onPress={() => navigation.navigate("SignIn_Screen")}>
           <CircleArrowLeft size={40} color="black" />
         </TouchableOpacity>
 
