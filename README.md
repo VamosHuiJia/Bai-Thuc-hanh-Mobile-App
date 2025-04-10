@@ -2,14 +2,16 @@
 ## Nguyen Gia Huy
 ## MSV: 22810310338
 
-### Bai thuc hanh 28/3
+### Bai thuc hanh 10/4
 | Splash | OnBording | SignIn |
 |---|---|---|
-| ![39e79e3a-3234-4f21-8974-9c245dc4ace6](https://github.com/user-attachments/assets/db2cf5c6-a4d9-4c55-b658-bf5860f2e522) | ![5badaa6f-2403-48ce-81ce-7f89267d3bf9](https://github.com/user-attachments/assets/74327934-f71d-4775-bbe3-1f10628faaf9) | ![0543408b-e33a-4e3d-8dcd-f5c6516478c7](https://github.com/user-attachments/assets/d9f8c777-68eb-49a4-b30d-b15198ae3745) |
+| ![39e79e3a-3234-4f21-8974-9c245dc4ace6](https://github.com/user-attachments/assets/db2cf5c6-a4d9-4c55-b658-bf5860f2e522) | ![5badaa6f-2403-48ce-81ce-7f89267d3bf9](https://github.com/user-attachments/assets/74327934-f71d-4775-bbe3-1f10628faaf9) | ![34f7e169-8a58-4075-8ce9-528b77391aa6](https://github.com/user-attachments/assets/b274c6bc-722e-41d9-8da3-6f0105297518) |
 
-| Number | Veritification |
-|---|---|
-| ![6989f2a2-ad38-4a93-92d6-3c8e6ebccbf4](https://github.com/user-attachments/assets/44b3e234-ade9-4f07-b8a3-bc567ffc5fb2) | ![b6f19e1b-0328-4a2f-8cbb-5b12ddd3ea10](https://github.com/user-attachments/assets/92df8358-1093-4962-a434-42e34f3000bb) |
+
+| Number | Veritification | Location |
+|---|---|---|
+| ![6fd2eb80-26ee-4d55-9ec9-15b09460d31b](https://github.com/user-attachments/assets/356f6c00-5e98-4cd6-8e15-0a17ebebbc65) | ![6a9e9d0b-150e-420b-8f68-ef00ade65033](https://github.com/user-attachments/assets/c9ee9292-f0f3-45d4-aba5-14d1aded2f90) | ![02c759ba-39a5-4b7a-bc19-ca7a69a410be](https://github.com/user-attachments/assets/66464113-0023-4d59-a449-20fc3c2754c0) |
+
 
 ### Bai thuc hanh 2
 | Ảnh 1 | Ảnh 2 | Ảnh 3 |
