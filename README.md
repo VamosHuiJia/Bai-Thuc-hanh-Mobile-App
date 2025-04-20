@@ -2,6 +2,20 @@
 ## Nguyen Gia Huy
 ## MSV: 22810310338
 
+
+### Bai thuc hanh 15/4
+| Home_1 | Home_2 | Detail |
+|---|---|---|
+| ![0331c3c8-f84d-4ce7-8bd9-baa6d5341825](https://github.com/user-attachments/assets/b2cea2fa-2c08-44d6-a651-9653b449608c) | ![ba408691-1141-49bd-9b93-b78e06a0c942](https://github.com/user-attachments/assets/7514875c-3709-4491-9068-3298f1716c4a) | ![ea55fb13-ea7e-49bf-950f-08db3c68bb90](https://github.com/user-attachments/assets/a851c652-83d0-450e-86c4-9c4de9a0e8e0) |
+
+
+| Explore | Berverages |
+|---|---|
+| ![cdf1bce0-b161-4b50-813d-71c91d552784](https://github.com/user-attachments/assets/2b11f6c0-659a-48d6-8b79-c974ad044d9f) | ![a9c4f488-0cd0-4454-a641-222cf52334db](https://github.com/user-attachments/assets/85251c72-bd15-4740-9fdd-ad8085324a0e) |
+
+
+
+
 ### Bai thuc hanh 10/4
 | Splash | OnBording | SignIn |
 |---|---|---|
